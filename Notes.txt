@@ -1,0 +1,76 @@
+this.setState({x:y})
+
+this.state ={x:y}
+
+componentDidMount()
+{
+
+}
+
+prevState=>({count:prevState.count+1})
+
+
+prop-type --save
+
+HasRouter - static site
+BrowserRouter - dynamic site
+npm install json-server --watch db.json --port 3004
+
+http://localhost:3004
+
+phone
+department
+http://localhost:3004/departments
+
+store = {spastore}
+
+npm install redux-devtools-extension --save
+npm install redux-logger --save
+npm install redux-thunk --save
+npm install redux --save
+npm install react-redux --save
+
+npm install redux react-redux redux-devtools-extension redux-logger redux-thunk --save
+
+https://github.com/sreekanthme/test
+
+https://github.com/sreekanthme/test/blob/master/ReactJS.zip
+
+
+header
+addrow
+dispaly
+
+Action
+----------
+{type:"FETCHING"}
+{type:"FETCH_SUCCESS",employees:[{id:1,name:"tesrt"}]}
+{type:"FETCH_ERROR",error:"boom"}
+
+
+Store
+-------
+{
+ employees:[  {
+		"id" : 1,
+		"name" : "muhtu",
+		"phone" : 1234,
+		"email": "email",
+		"department" : "dept"
+	      }
+
+],
+error : "",
+fetching : false;
+}
+
+Rest parameter
+
+
+
+nmp install webpack webpack-cli --save-dev
+https://webpack.js.org/concepts/mode/
+Jest
+
+path to upload files: 172.25.163.79
+
